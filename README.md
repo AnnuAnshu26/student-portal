@@ -1,3 +1,45 @@
+# Student Portal
+
+A responsive and functional **Student Portal Web App** built using React, Tailwind CSS, and TypeScript. It includes login and logout, dashboard, API-based user listing, dark mode, and more.
+
+## Live Demo
+
+🔗 [Click here to view the app](https://your-vercel-link.vercel.app)
+
+## Features Implemented
+
+- **Dummy Login** with hardcoded credentials
+  - Email: `student@example.com`
+  - Password: `123456`
+- **Sticky Navbar** with routes
+- **Home Page** with welcome message
+- **Users Page** (API from jsonplaceholder)
+- **Dashboard Page** with summary stats (GPA, Attendance, Subjects)
+- **Dark Mode Toggle**
+- **Logout** clears session
+- **Optional Signup Page** (dummy form)
+- Responsive design using Tailwind CSS
+- Smooth hover transitions and UI polish
+
+## Screenshots
+
+
+## Tech Stack
+
+- React + Vite + TypeScript
+- React Router DOM
+- Tailwind CSS
+- Axios
+- Vercel (for deployment)
+
+## What I Learned / Challenges
+
+- Setting up Tailwind manually with Vite & TypeScript
+- Managing context-based dummy authentication
+- Handling TypeScript isolated module errors
+- Adding dark mode with Tailwind and syncing it with state
+- Smooth component layout using Tailwind grid/flex
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
