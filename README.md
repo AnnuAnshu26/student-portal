@@ -4,7 +4,7 @@ A responsive and functional **Student Portal Web App** built using React, Tailwi
 
 ## Live Demo
 
-🔗 [Click here to view the app](https://your-vercel-link.vercel.app)
+🔗 [Click here to view the app](https://student-portal-eight-beryl.vercel.app/)
 
 ## Features Implemented
 
@@ -22,7 +22,11 @@ A responsive and functional **Student Portal Web App** built using React, Tailwi
 - Smooth hover transitions and UI polish
 
 ## Screenshots
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
 
 ## Tech Stack
 
